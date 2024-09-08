@@ -1,4 +1,4 @@
-# Natty or Not: Criatividade e Arte na Era da IA 🌌
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=merienda&size=24&pause=1000&color=2C99EA&center=true&vCenter=true&width=650&lines=Natty+or+Not%3A+Criatividade+e+Arte+na+Era+da+IA)](https://git.io/typing-svg) 
 
 ## 📒 Descrição
 Exploramos como a IA generativa está redefinindo o conceito de criatividade e arte. Este material analisa a definição de criatividade, compara criações humanas e de IA, discute desafios éticos e filosóficos, e examina como distinguir entre obras de IA e humanas. A apresentação oferece uma visão crítica e informada sobre a influência da IA na criatividade.
