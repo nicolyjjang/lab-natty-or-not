@@ -1,51 +1,46 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natty or Not: Criatividade e Arte na Era da IA 🌌
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Exploramos como a IA generativa está redefinindo o conceito de criatividade e arte. Este material analisa a definição de criatividade, compara criações humanas e de IA, discute desafios éticos e filosóficos, e examina como distinguir entre obras de IA e humanas. A apresentação oferece uma visão crítica e informada sobre a influência da IA na criatividade.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **IA Generativa [ChatGPT](https://chat.openai.com)**: Utilizada para roteirização e estruturação do conteúdo, ajudando a definir e refinar os tópicos abordados.
+- **IA Generativa [Gamma](https://gamma.app)**: Ferramenta usada para a criação dos slides, permitindo uma apresentação visualmente atraente e bem organizada.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+### 🧐 Processo de Criação
+Utilizei o "ChatGPT" para revisar e estruturar a pesquisa sobre IAs generativas e aprimorar as ideias. As imagens e o design dos slides foram criados diretamente no "Gamma", garantindo uma apresentação visualmente impactante e bem estruturada.
+
+### 📝 Prompt Utilizado na Criação de Cada Slide
+#### Slide 1:
+* **Tema:** O Significado da Criatividade
+* **Definição de Criatividade:** Explorar o que significa ser criativo.
+* **Criatividade como Capacidade Humana:** Originalidade, inovação, expressão pessoal.
+* **Criatividade Artificial:** IA replicando padrões ou inventando algo novo?
+* **Exemplos Históricos:** Grandes exemplos de arte humana (Michelangelo, Mozart, Shakespeare) versus criações modernas feitas por IA.
+* **Pergunta Reflexiva:** Se a IA pode aprender a criar arte como um humano, ainda podemos chamar isso de criatividade?
+
+#### Slide 2:
+* **Tema:** IA e o Processo Criativo
+* **Processo Criativo da IA:** Como a IA gera ideias e criações (algoritmos, aprendizado de máquina).
+* **Diferença com o Processo Humano:** Como o processo criativo da IA difere do processo humano.
+* **Colaboração Humano-IA:** Exemplos de como humanos e IA podem colaborar em projetos criativos.
+* **Pergunta Reflexiva:** A colaboração entre humanos e IA pode redefinir o conceito de criatividade?
+
+#### Slide 3:
+* **Tema:** Como Identificar uma Obra Feita por IA ou Humano?
+* **Técnicas de Detecção:** Métodos para identificar se uma obra foi criada por IA ou por um humano.
+* **Diferenças Sutis:** Aspectos que podem revelar a origem de uma criação, como estilos repetitivos ou falta de profundidade emocional.
+* **Desenvolvimentos Futuros:** Como a detecção pode evoluir com o avanço das tecnologias de IA.
+* **Pergunta Reflexiva:** Se as diferenças se tornam imperceptíveis, como isso altera nossa abordagem à autenticidade na arte?
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os slides são visualmente ricos e envolventes, demonstrando como as IAs generativas podem auxiliar e desafiar a criatividade na arte. O conteúdo é apresentado de maneira clara e acessível, explorando o papel crescente da IA na produção artística.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[Slide 1](https://github.com/user-attachments/files/16923579/O-Significado-da-Criatividade.pdf)
 
-### Exemplos e Insigths
+[Slide 2](https://github.com/user-attachments/files/16923580/IA-e-o-Processo-Criativo.pdf)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+[Slide 3](https://github.com/user-attachments/files/16923581/Identificando-Obras-de-IA-ou-Humanas.pdf)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+O advento das IAs generativas levanta questões complexas sobre a essência da criatividade e a autenticidade das obras artísticas. Ao analisar a capacidade da IA de imitar e expandir as fronteiras da criatividade humana, questionamos o que significa ser verdadeiramente criativo e como as futuras inovações tecnológicas podem redefinir a arte e a expressão pessoal.
